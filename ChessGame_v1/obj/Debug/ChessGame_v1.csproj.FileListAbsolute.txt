@@ -1,0 +1,14 @@
+C:\Users\alexs\source\repos\ChessGame_v1\bin\Debug\ChessGame_v1.exe.config
+C:\Users\alexs\source\repos\ChessGame_v1\bin\Debug\ChessGame_v1.exe
+C:\Users\alexs\source\repos\ChessGame_v1\bin\Debug\ChessGame_v1.pdb
+C:\Users\alexs\source\repos\ChessGame_v1\obj\Debug\ChessGame_v1.csproj.CoreCompileInputs.cache
+C:\Users\alexs\source\repos\ChessGame_v1\obj\Debug\ChessGame_v1.exe
+C:\Users\alexs\source\repos\ChessGame_v1\obj\Debug\ChessGame_v1.pdb
+C:\Users\alexs\source\repos\ChessGame_v1\obj\Debug\ChessGame_v1.csprojAssemblyReference.cache
+C:\Users\Alex\Desktop\ChessGame_v1\bin\Debug\ChessGame_v1.exe.config
+C:\Users\Alex\Desktop\ChessGame_v1\bin\Debug\ChessGame_v1.exe
+C:\Users\Alex\Desktop\ChessGame_v1\bin\Debug\ChessGame_v1.pdb
+C:\Users\Alex\Desktop\ChessGame_v1\obj\Debug\ChessGame_v1.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\ChessGame_v1\obj\Debug\ChessGame_v1.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\ChessGame_v1\obj\Debug\ChessGame_v1.exe
+C:\Users\Alex\Desktop\ChessGame_v1\obj\Debug\ChessGame_v1.pdb
