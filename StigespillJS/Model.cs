@@ -37,15 +37,19 @@ namespace StigespilletJS
             ladderStartDown = new int[] { 24, 33, 42, 56, 64, 74, 87 };
             ladderEndDown = new int[] { 3, 5, 12, 27, 30, 37, 70 };
 
-            this.initModel(); // Could place the content of initModel inside the constructor for the Model 
-                              // class. Instead of calling initModel. Using this, to refer to the create object of the class model.
-                              // The constructor initialize the model. 
+            this.initModel(); 
+            
+            
             
         }
 
 
         public void initModel() 
         {
+            // Could place the content of initModel inside the constructor for the Model class. 
+            // Instead of calling initModel. Using this, to refer to a created object of the class model.
+            // The constructor initialize the model
+            
             drawingSequence = new int[90];
 
             for (int i = 0; i < 90; i++)
